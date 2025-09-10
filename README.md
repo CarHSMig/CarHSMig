@@ -54,6 +54,10 @@
 
 <br clear="both">
 
+[![An image of @carhsmig's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carhsmig)](https://holopin.io/@carhsmig)
+
+<br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-henrique-dos-santos-migon-46387b336/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
