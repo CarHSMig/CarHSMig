@@ -1,17 +1,22 @@
-<h1 align="center">Carlos Henrique dos Santos Migon</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=c0caf5">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:3b82f6&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=0f172a">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=c0caf5" alt="Carlos Henrique Migon · Desenvolvedor Full-Stack">
+</picture>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack</b> · Ruby on Rails · TypeScript · Python<br>
-  <sub>SaaS multi-tenant · APIs REST · processamento assíncrono · integrações com IA</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full-Stack;Ruby+on+Rails+%C2%B7+TypeScript+%C2%B7+Python;SaaS+multi-tenant+e+APIs+REST;Integra%C3%A7%C3%B5es+com+IA">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1D4ED8&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full-Stack;Ruby+on+Rails+%C2%B7+TypeScript+%C2%B7+Python;SaaS+multi-tenant+e+APIs+REST;Integra%C3%A7%C3%B5es+com+IA">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full-Stack;Ruby+on+Rails+%C2%B7+TypeScript+%C2%B7+Python;SaaS+multi-tenant+e+APIs+REST;Integra%C3%A7%C3%B5es+com+IA" alt="Desenvolvedor Full-Stack · Ruby on Rails · TypeScript · Python">
+</picture>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-henrique-dos-santos-migon-46387b336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/Projetos-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"></a>
+  <a href="#projetos-em-destaque"><img src="https://img.shields.io/badge/Projetos-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"></a>
   <img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brasil">
 </p>
-
----
 
 ## Sobre
 
@@ -39,6 +44,14 @@ lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT).
 
 ## Competências
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws,ts,nodejs,nestjs,nextjs,react,tailwind,py,fastapi,swift&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws,ts,nodejs,nestjs,nextjs,react,tailwind,py,fastapi,swift&theme=light">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws,ts,nodejs,nestjs,nextjs,react,tailwind,py,fastapi,swift&theme=dark" alt="Ruby, Rails, PostgreSQL, Redis, Docker, AWS, TypeScript, Node.js, NestJS, Next.js, React, Tailwind, Python, FastAPI, Swift">
+</picture>
+</p>
+
 | Área | Tecnologias |
 |---|---|
 | **Back-end** | Ruby, Ruby on Rails, Node.js, NestJS, Express, Python, FastAPI |
@@ -47,12 +60,6 @@ lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT).
 | **Infra e qualidade** | Docker, AWS, GitHub Actions, RSpec, Jest, RuboCop |
 | **Outros** | Sidekiq, JWT, APIs REST, ActionCable, Swift / SwiftUI |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws,ts,nodejs,nestjs,nextjs,react,tailwind,py,fastapi,swift&theme=dark" alt="Ruby, Rails, PostgreSQL, Redis, Docker, AWS, TypeScript, Node.js, NestJS, Next.js, React, Tailwind, Python, FastAPI, Swift">
-</p>
-
----
-
 ## Projetos em destaque
 
 ### Presence: controle de presença com geolocalização e reconhecimento facial
@@ -60,31 +67,71 @@ lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT).
 Sistema distribuído em três serviços. O aluno confirma a presença pelo celular, e a API só a registra quando
 o horário do evento, a localização e o rosto conferem.
 
-| Repositório | Stack | Responsabilidade |
-|---|---|---|
-| [**presence**](https://github.com/CarHSMig/presence) | Rails 8 · PostgreSQL + pgvector · JWT · Pundit · ActionCable · RSpec | API central e regras de negócio |
-| [**Presence-FRONT**](https://github.com/CarHSMig/Presence-FRONT) | Next.js 16 · React 19 · Tailwind + shadcn/ui · TanStack | Painel administrativo e confirmação |
-| [**Presence-face-recognition**](https://github.com/CarHSMig/Presence-face-recognition) | Python · FastAPI · InsightFace · pgvector · Docker | Embeddings e verificação facial |
+<p align="center">
+<a href="https://github.com/CarHSMig/presence">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=presence&hide_border=true&description_lines_count=2&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=presence&hide_border=true&description_lines_count=2&theme=default">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=presence&hide_border=true&description_lines_count=2&theme=tokyonight" alt="presence">
+</picture>
+</a>
+<a href="https://github.com/CarHSMig/Presence-FRONT">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-FRONT&hide_border=true&description_lines_count=2&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-FRONT&hide_border=true&description_lines_count=2&theme=default">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-FRONT&hide_border=true&description_lines_count=2&theme=tokyonight" alt="Presence-FRONT">
+</picture>
+</a>
+</p>
 
-### [claude-usage](https://github.com/CarHSMig/claude-usage)
+<p align="center">
+<a href="https://github.com/CarHSMig/Presence-face-recognition">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-face-recognition&hide_border=true&description_lines_count=2&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-face-recognition&hide_border=true&description_lines_count=2&theme=default">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-face-recognition&hide_border=true&description_lines_count=2&theme=tokyonight" alt="Presence-face-recognition">
+</picture>
+</a>
+</p>
 
-Aplicativo nativo de macOS em **Swift 6 / SwiftUI** que monitora os limites de uso do Claude Code em várias
-contas, indica a conta com mais capacidade disponível e registra horas de IA por projeto. Testado com XCTest.
+### Outros projetos
 
-### Encurtador de URLs
+<p align="center">
+<a href="https://github.com/CarHSMig/claude-usage">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=claude-usage&hide_border=true&description_lines_count=2&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=claude-usage&hide_border=true&description_lines_count=2&theme=default">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=claude-usage&hide_border=true&description_lines_count=2&theme=tokyonight" alt="claude-usage">
+</picture>
+</a>
+<a href="https://github.com/CarHSMig/APIbank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=APIbank&hide_border=true&description_lines_count=2&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=APIbank&hide_border=true&description_lines_count=2&theme=default">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=APIbank&hide_border=true&description_lines_count=2&theme=tokyonight" alt="APIbank">
+</picture>
+</a>
+</p>
 
-O mesmo domínio implementado com duas arquiteturas:
-
-- [**short-url**](https://github.com/CarHSMig/short-url): Node.js, Express, Sequelize e PostgreSQL, com testes de request em Jest + Supertest.
-- [**ts-short-url**](https://github.com/CarHSMig/ts-short-url): NestJS, TypeScript, TypeORM e Docker Compose.
-
-### [APIbank](https://github.com/CarHSMig/APIbank)
-
-API bancária em Rails com regras de negócio no domínio: abertura de conta com validação de documento e
-idade, upload de documento com ActiveStorage e transações de débito e crédito com controle de saldo.
+<p align="center">
+<a href="https://github.com/CarHSMig/short-url">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=short-url&hide_border=true&description_lines_count=2&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=short-url&hide_border=true&description_lines_count=2&theme=default">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=short-url&hide_border=true&description_lines_count=2&theme=tokyonight" alt="short-url">
+</picture>
+</a>
+<a href="https://github.com/CarHSMig/ts-short-url">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=ts-short-url&hide_border=true&description_lines_count=2&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=ts-short-url&hide_border=true&description_lines_count=2&theme=default">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=ts-short-url&hide_border=true&description_lines_count=2&theme=tokyonight" alt="ts-short-url">
+</picture>
+</a>
+</p>
 
 <details>
-<summary><b>Outros repositórios</b></summary>
+<summary><b>Mais repositórios</b></summary>
 <br>
 
 - [**education-page**](https://github.com/CarHSMig/education-page): página educativa de matemática para crianças, em Next.js + TypeScript.
@@ -92,22 +139,42 @@ idade, upload de documento com ActiveStorage e transações de débito e crédit
 
 </details>
 
----
-
 ## Atividade no GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarHSMig&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=pt-br&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=pt-br&theme=default">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CarHSMig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CarHSMig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=default">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarHSMig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=tokyonight" alt="Linguagens mais usadas">
+</picture>
 </p>
 
-<p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CarHSMig&hide_border=true&locale=pt_BR&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=CarHSMig&hide_border=true&locale=pt_BR&theme=default">
+  <img src="https://streak-stats.demolab.com?user=CarHSMig&hide_border=true&locale=pt_BR&theme=tokyonight" alt="Sequência de contribuições">
+</picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarHSMig&theme=tokyo-night&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarHSMig&bg_color=ffffff&color=24292f&title_color=24292f&line=3b82f6&point=1e3a8a&area_color=93c5fd&hide_border=true&area=true">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CarHSMig&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições">
-</p>
-
----
+</picture>
 
 <p align="center">
   Aberto a conversas sobre desenvolvimento web, Ruby on Rails e produtos SaaS.<br>
   Vamos nos conectar no <a href="https://www.linkedin.com/in/carlos-henrique-dos-santos-migon-46387b336/">LinkedIn</a>.
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:3b82f6&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer" alt="">
+</picture>
