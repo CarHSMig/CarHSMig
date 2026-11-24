@@ -72,14 +72,14 @@ o horário do evento, a localização e o rosto conferem.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=presence&hide_border=true&description_lines_count=2&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=presence&hide_border=true&description_lines_count=2&theme=default">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=presence&hide_border=true&description_lines_count=2&theme=tokyonight" alt="presence">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=presence&hide_border=true&description_lines_count=2&theme=tokyonight" alt="presence">
 </picture>
 </a>
 <a href="https://github.com/CarHSMig/Presence-FRONT">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-FRONT&hide_border=true&description_lines_count=2&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-FRONT&hide_border=true&description_lines_count=2&theme=default">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-FRONT&hide_border=true&description_lines_count=2&theme=tokyonight" alt="Presence-FRONT">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-FRONT&hide_border=true&description_lines_count=2&theme=tokyonight" alt="Presence-FRONT">
 </picture>
 </a>
 </p>
@@ -89,7 +89,7 @@ o horário do evento, a localização e o rosto conferem.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-face-recognition&hide_border=true&description_lines_count=2&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-face-recognition&hide_border=true&description_lines_count=2&theme=default">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-face-recognition&hide_border=true&description_lines_count=2&theme=tokyonight" alt="Presence-face-recognition">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=Presence-face-recognition&hide_border=true&description_lines_count=2&theme=tokyonight" alt="Presence-face-recognition">
 </picture>
 </a>
 </p>
@@ -101,14 +101,14 @@ o horário do evento, a localização e o rosto conferem.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=claude-usage&hide_border=true&description_lines_count=2&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=claude-usage&hide_border=true&description_lines_count=2&theme=default">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=claude-usage&hide_border=true&description_lines_count=2&theme=tokyonight" alt="claude-usage">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=claude-usage&hide_border=true&description_lines_count=2&theme=tokyonight" alt="claude-usage">
 </picture>
 </a>
 <a href="https://github.com/CarHSMig/APIbank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=APIbank&hide_border=true&description_lines_count=2&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=APIbank&hide_border=true&description_lines_count=2&theme=default">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=APIbank&hide_border=true&description_lines_count=2&theme=tokyonight" alt="APIbank">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=APIbank&hide_border=true&description_lines_count=2&theme=tokyonight" alt="APIbank">
 </picture>
 </a>
 </p>
@@ -118,14 +118,14 @@ o horário do evento, a localização e o rosto conferem.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=short-url&hide_border=true&description_lines_count=2&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=short-url&hide_border=true&description_lines_count=2&theme=default">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=short-url&hide_border=true&description_lines_count=2&theme=tokyonight" alt="short-url">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=short-url&hide_border=true&description_lines_count=2&theme=tokyonight" alt="short-url">
 </picture>
 </a>
 <a href="https://github.com/CarHSMig/ts-short-url">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=ts-short-url&hide_border=true&description_lines_count=2&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=ts-short-url&hide_border=true&description_lines_count=2&theme=default">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=ts-short-url&hide_border=true&description_lines_count=2&theme=tokyonight" alt="ts-short-url">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CarHSMig&repo=ts-short-url&hide_border=true&description_lines_count=2&theme=tokyonight" alt="ts-short-url">
 </picture>
 </a>
 </p>
