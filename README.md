@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=c0caf5">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:3b82f6&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=0f172a">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=c0caf5" alt="Carlos Henrique Migon · Desenvolvedor Full-Stack">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27%2C100:7aa2f7&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=c0caf5">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe%2C100:3b82f6&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=0f172a">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27%2C100:7aa2f7&height=200&section=header&text=Carlos%20Henrique%20Migon&fontSize=42&fontAlignY=36&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Ruby%20on%20Rails&descSize=18&descAlignY=58&animation=fadeIn&fontColor=c0caf5" alt="Carlos Henrique Migon · Desenvolvedor Full-Stack">
 </picture>
 
 <p align="center">
@@ -46,9 +46,9 @@ lavagem de dinheiro e ao financiamento do terrorismo (PLD/FT).
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws,ts,nodejs,nestjs,nextjs,react,tailwind,py,fastapi,swift&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws,ts,nodejs,nestjs,nextjs,react,tailwind,py,fastapi,swift&theme=light">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,redis,docker,aws,ts,nodejs,nestjs,nextjs,react,tailwind,py,fastapi,swift&theme=dark" alt="Ruby, Rails, PostgreSQL, Redis, Docker, AWS, TypeScript, Node.js, NestJS, Next.js, React, Tailwind, Python, FastAPI, Swift">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby%2Crails%2Cpostgres%2Credis%2Cdocker%2Caws%2Cts%2Cnodejs%2Cnestjs%2Cnextjs%2Creact%2Ctailwind%2Cpy%2Cfastapi%2Cswift&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ruby%2Crails%2Cpostgres%2Credis%2Cdocker%2Caws%2Cts%2Cnodejs%2Cnestjs%2Cnextjs%2Creact%2Ctailwind%2Cpy%2Cfastapi%2Cswift&theme=light">
+  <img src="https://skillicons.dev/icons?i=ruby%2Crails%2Cpostgres%2Credis%2Cdocker%2Caws%2Cts%2Cnodejs%2Cnestjs%2Cnextjs%2Creact%2Ctailwind%2Cpy%2Cfastapi%2Cswift&theme=dark" alt="Ruby, Rails, PostgreSQL, Redis, Docker, AWS, TypeScript, Node.js, NestJS, Next.js, React, Tailwind, Python, FastAPI, Swift">
 </picture>
 </p>
 
@@ -143,9 +143,9 @@ o horário do evento, a localização e o rosto conferem.
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=pt-br&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=pt-br&theme=default">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&cache_seconds=86400&hide_border=true&locale=pt-br&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&cache_seconds=86400&hide_border=true&locale=pt-br&theme=default">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarHSMig&show_icons=true&count_private=true&cache_seconds=86400&hide_border=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CarHSMig&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=tokyonight">
@@ -174,7 +174,7 @@ o horário do evento, a localização e o rosto conferem.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:3b82f6&height=120&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27%2C100:7aa2f7&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe%2C100:3b82f6&height=120&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27%2C100:7aa2f7&height=120&section=footer" alt="">
 </picture>
